@@ -1,0 +1,1 @@
+python deep_sort_app.py --sequence_dir=./MOT16/test/MOT16-06  --detection_file=./resources/detections/det-test-videos/det.npy --min_confidence=0.5  --nn_budget=100 --display=True
