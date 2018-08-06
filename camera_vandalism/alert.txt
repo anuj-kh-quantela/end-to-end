@@ -1,0 +1,192 @@
+Event: vandalism started at: 2018_07_08_18_12_19
+Event: vandalism started at: 2018_07_08_18_12_19
+Event: vandalism started at: 2018_07_08_18_12_20
+Event: vandalism started at: 2018_07_08_18_12_21
+Event: vandalism started at: 2018_07_08_18_12_21
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_12_25
+Event: vandalism started at: 2018_07_08_18_14_38
+Event: vandalism started at: 2018_07_08_18_14_38
+Event: vandalism started at: 2018_07_08_18_14_39
+Event: vandalism started at: 2018_07_08_18_14_39
+Event: vandalism started at: 2018_07_08_18_14_40
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_14_43
+Event: vandalism started at: 2018_07_08_18_14_55
+Event: vandalism started at: 2018_07_08_18_14_55
+Event: vandalism started at: 2018_07_08_18_14_56
+Event: vandalism started at: 2018_07_08_18_14_56
+Event: vandalism started at: 2018_07_08_18_14_57
+Event: vandalism started at: 2018_07_08_18_14_58
+Event: vandalism started at: 2018_07_08_18_14_58
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_15_07
+Event: vandalism started at: 2018_07_08_18_41_40
+Event: vandalism started at: 2018_07_08_18_41_41
+Event: vandalism started at: 2018_07_08_18_41_41
+Event: vandalism started at: 2018_07_08_18_41_42
+Event: vandalism started at: 2018_07_08_18_41_42
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_41_45
+Event: vandalism started at: 2018_07_08_18_41_57
+Event: vandalism started at: 2018_07_08_18_41_58
+Event: vandalism started at: 2018_07_08_18_41_58
+Event: vandalism started at: 2018_07_08_18_41_59
+Event: vandalism started at: 2018_07_08_18_41_59
+Event: vandalism started at: 2018_07_08_18_42_00
+Event: vandalism started at: 2018_07_08_18_42_00
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_42_09
+Event: vandalism started at: 2018_07_08_18_45_27
+Event: vandalism started at: 2018_07_08_18_45_28
+Event: vandalism started at: 2018_07_08_18_45_28
+Event: vandalism started at: 2018_07_08_18_45_29
+Event: vandalism started at: 2018_07_08_18_45_30
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_45_32
+Event: vandalism started at: 2018_07_08_18_45_45
+Event: vandalism started at: 2018_07_08_18_45_45
+Event: vandalism started at: 2018_07_08_18_45_46
+Event: vandalism started at: 2018_07_08_18_45_47
+Event: vandalism started at: 2018_07_08_18_45_47
+Event: vandalism started at: 2018_07_08_18_45_48
+Event: vandalism started at: 2018_07_08_18_45_49
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_45_58
+Event: vandalism started at: 2018_07_08_18_51_38
+Event: vandalism started at: 2018_07_08_18_51_39
+Event: vandalism started at: 2018_07_08_18_51_39
+Event: vandalism started at: 2018_07_08_18_51_40
+Event: vandalism started at: 2018_07_08_18_51_40
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_51_43
+Event: vandalism started at: 2018_07_08_18_51_55
+Event: vandalism started at: 2018_07_08_18_51_56
+Event: vandalism started at: 2018_07_08_18_51_57
+Event: vandalism started at: 2018_07_08_18_51_57
+Event: vandalism started at: 2018_07_08_18_51_58
+Event: vandalism started at: 2018_07_08_18_51_58
+Event: vandalism started at: 2018_07_08_18_51_59
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_18_52_09
+Event: vandalism started at: 2018_07_08_19_00_48
+Event: vandalism started at: 2018_07_08_19_00_48
+Event: vandalism started at: 2018_07_08_19_00_49
+Event: vandalism started at: 2018_07_08_19_00_49
+Event: vandalism started at: 2018_07_08_19_00_50
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_19_00_52
+Event: vandalism started at: 2018_07_08_19_01_04
+Event: vandalism started at: 2018_07_08_19_01_05
+Event: vandalism started at: 2018_07_08_19_01_05
+Event: vandalism started at: 2018_07_08_19_01_06
+Event: vandalism started at: 2018_07_08_19_01_07
+Event: vandalism started at: 2018_07_08_19_01_07
+Event: vandalism started at: 2018_07_08_19_01_08
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism started but not removed
+Event: vandalism removed at: 2018_07_08_19_01_18
+Event: vandalism started at: 2018_07_08_19_03_37
+Event: vandalism started at: 2018_07_08_19_03_38
+Event: vandalism started at: 2018_07_08_19_03_38
+Event: vandalism started at: 2018_07_08_19_03_39
+Event: vandalism started at: 2018_07_08_19_03_40
+Event: vandalism started at: 2018_07_08_19_03_54
+Event: vandalism started at: 2018_07_08_19_03_55
+Event: vandalism started at: 2018_07_08_19_03_55
+Event: vandalism started at: 2018_07_08_19_03_56
+Event: vandalism started at: 2018_07_08_19_03_56
+Event: vandalism started at: 2018_07_08_19_03_57
+Event: vandalism started at: 2018_07_08_19_03_57
